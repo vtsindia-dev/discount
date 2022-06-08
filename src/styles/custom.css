@@ -1,0 +1,140 @@
+.bg-heading {
+    --tw-bg-opacity: 1;
+    background: linear-gradient(45deg, #FF7A00, #FF3D00);
+}
+
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color: #FF7A00;
+}
+
+.card {
+    background: linear-gradient(45deg, #FF7A00, #FF3D00);
+    color: white;
+    padding: 25px;
+    font-size: 20px;
+    font-family: Arial;
+    text-align: center;
+    margin-bottom: 2rem;
+    border-radius:10px;
+  }
+
+
+  .Add-to-cart{
+    background: white;
+    color: orangered;
+    height: 35px;
+    width: 100%;
+    box-shadow: none !important;
+  }
+
+  .Buy-new{
+    background: linear-gradient(45deg, #FF7A00, #FF3D00);
+    color:  white;
+    height: 35px;
+    width: 100%;
+    margin-top: 2%;
+    box-shadow: none !important;
+  }
+
+  .hero-banner div {
+    width: 100%
+  }
+
+  .orangeText {
+    color: #FF7A00 !important;
+    font-weight: bold;
+  }
+
+  .OriginalImageContainer {
+    display: inline-block;
+    height: 450px;
+    width: 450px;
+    overflow: hidden;
+  }
+    
+  .OriginalImage {
+    height: 450px;
+    display: inline-block;
+  }
+    
+  .ZoomInWindow {
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    box-shadow: 2px 5px 8px 1px rgb(0 0 0 / 20%), 0px 0px 0px 0px rgb(0 0 0 / 14%), 0px 0px 0px 0px rgb(0 0 0 / 10%);
+    background-color: #FFFFFF;
+  }
+  
+  .ZoomInWindow-Image {
+    position: relative;
+    zoom: 1.17
+  }
+
+  .ZoomOverlay {
+    position: absolute;
+    background: lightblue;
+    width: 150px;
+    height: 150px;
+    opacity: 0.5;
+  }
+
+  .radio-button {
+    color: orangered !important;
+  }
+
+  .radio-button:hover {
+    border-color: orangered !important;
+  }
+
+  .checkbox {
+    color: orangered !important;
+    border-color: orangered !important;
+    border-width: 2px !important;
+  }
+
+  .text-primary {
+    color: orangered !important;
+  }
+
+  .bg-primary {
+    background-color: orangered !important;
+  }
+
+  .border-primary {
+    border-color: orangered !important;
+  }
+
+  .bg-green {
+    background-color: #bfe4bf33;
+  }
+
+  .shipping-address:hover {
+    background-color: #bfe4bf33 !important;
+  }
+
+  .useAddressCard {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+  }
+  .useAddressCard.open {
+    max-height: 80px;
+    transition: max-height 0.5s ease-in-out;
+  }
+  .promocode input {
+    height: 36px;
+    padding: 0.5rem;
+  }
+  .Toastify__toast--dark {
+    background: linear-gradient(45deg, #FF3D00, #FF7A00);
+  }
+
+  .filter-container .input-range__track .input-range__label-container {
+    display: none;
+  }
+  .filter-container .input-range__track--active, .filter-container .input-range__slider-container div {
+    background: linear-gradient(45deg, #FF7A00, #FF3D00);
+    border: #FF3D00;
+  }

@@ -1,0 +1,208 @@
+{
+  "id": 1,
+  "sku": "N/A",
+  "name": "Lenovo Ideapad S145 Ryzen 3 Dual Core 3200U (4 GB/1 TB HDD/Windows 10 Home) S145 15API Thin and Light Laptop",
+  "slug": "maniac-red-boys",
+  "description": "Delivery: _________________________ Check",
+  "category": {
+    "id": 1,
+    "name": "kids",
+    "slug": "kids"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "Casual",
+      "slug": "casual"
+    },
+    {
+      "id": 2,
+      "name": "Cotton",
+      "slug": "cotton"
+    },
+    {
+      "id": 3,
+      "name": "Red",
+      "slug": "red"
+    }
+  ],
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/products/p-20.png",
+    "original": "/assets/images/products/p-20-m.png"
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-20-1.png",
+      "original": "/assets/images/products/p-20-1.png"
+    },
+    {
+      "id": 2,
+      "thumbnail": "/assets/images/products/p-20-2.png",
+      "original": "/assets/images/products/p-20-2.png"
+    },
+    {
+      "id": 3,
+      "thumbnail": "/assets/images/products/p-20-3.png",
+      "original": "/assets/images/products/p-20-3.png"
+    },
+    {
+      "id": 4,
+      "thumbnail": "/assets/images/products/p-20-4.png",
+      "original": "/assets/images/products/p-20-4.png"
+    },
+    {
+      "id": 5,
+      "thumbnail": "/assets/images/products/p-20-1.png",
+      "original": "/assets/images/products/p-20-1.png"
+    },
+    {
+      "id": 6,
+      "thumbnail": "/assets/images/products/p-20-2.png",
+      "original": "/assets/images/products/p-20-2.png"
+    },
+    {
+      "id": 7,
+      "thumbnail": "/assets/images/products/p-20-3.png",
+      "original": "/assets/images/products/p-20-3.png"
+    },
+    {
+      "id": 8,
+      "thumbnail": "/assets/images/products/p-20-4.png",
+      "original": "/assets/images/products/p-20-4.png"
+    }
+  ],
+  "price": 50,
+  "sale_price": 40,
+  "quantity": 20,
+  "variations": [
+    {
+      "id": 1,
+      "value": "S",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 2,
+      "value": "M",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 3,
+      "value": "L",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 4,
+      "value": "XL",
+      "attribute": {
+        "id": 1,
+        "name": "Size",
+        "slug": "size"
+      }
+    },
+    {
+      "id": 5,
+      "value": "Orange",
+      "meta": "#e86c25",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 6,
+      "value": "Pink",
+      "meta": "#ffa5b4",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 7,
+      "value": "Purple",
+      "meta": "#8224e3",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    },
+    {
+      "id": 8,
+      "value": "Red",
+      "meta": "#dd3333",
+      "attribute": {
+        "id": 1,
+        "name": "Color",
+        "slug": "color"
+      }
+    }
+  ],
+  "meta": [
+    {
+      "id": 1,
+      "title": "Product Details",
+      "content": "Bring home the Lenovo Ideapad S145 laptop to work, play games, and do more with ease and efficiency. The lightweight build of this laptop (weighing about 1.85 kg) makes it easy for you to slip it in your backpack and take it along wherever you go The dual 1.5 W speakers and 39.62 cm (15.6) Full HD screen ensure that you can enjoy an immersive and rich audio visual experience, every single time."
+    },
+    {
+      "id": 2,
+      "title": "Specifications",
+      "content": [
+        {
+          "key": "Specifications 1",
+          "value": "Specifications Value 1"
+        },
+        {
+          "key": "Specifications 2",
+          "value": "Specifications Value 2"
+        },
+        {
+          "key": "Specifications 3",
+          "value": "Specifications Value 3"
+        },
+        {
+          "key": "Specifications 4",
+          "value": "Specifications Value 4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Processor And Memory Features",
+      "content": [
+        {
+          "key": "Memory Features 1",
+          "value": "Memory Features 1"
+        },
+        {
+          "key": "Memory Features 2",
+          "value": "Memory Features 2"
+        },
+        {
+          "key": "Memory Features 3",
+          "value": "Memory Features 3"
+        },
+        {
+          "key": "Memory Features 4",
+          "value": "Memory Features 4"
+        }
+      ]
+    }
+  ]
+}

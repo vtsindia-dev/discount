@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ultraportable",
+      "slug": "woman",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/woman.jpg",
+        "original": "/assets/images/category/woman.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ultrabook",
+      "slug": "man",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/man.jpg",
+        "original": "/assets/images/category/man.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chromebook",
+      "slug": "watch",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/watch.jpg",
+        "original": "/assets/images/category/watch.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Convertible (2 in 1)",
+      "slug": "kids",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/kid.jpg",
+        "original": "/assets/images/category/kid.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Tablet as a laptop",
+      "slug": "sports",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/sports.jpg",
+        "original": "/assets/images/category/sports.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Windows OS",
+      "slug": "sunglass",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/sunglass.jpg",
+        "original": "/assets/images/category/sunglass.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mac OS",
+      "slug": "bags",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/bags.jpg",
+        "original": "/assets/images/category/bags.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Linux OS",
+      "slug": "sneakers",
+      "productCount": 20,
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/sneakers.jpg",
+        "original": "/assets/images/category/sneakers.jpg"
+      }
+    }
+  ]
+}

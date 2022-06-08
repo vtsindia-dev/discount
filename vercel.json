@@ -1,0 +1,10 @@
+{
+	"env": {
+		"NEXT_PUBLIC_REST_API_ENDPOINT": "https://www.discountitstore.in/DiscountIT/discount/api"
+	},
+	"build": {
+		"env": {
+			"NEXT_PUBLIC_REST_API_ENDPOINT": "https://www.discountitstore.in/DiscountIT/discount/api"
+		}
+	}
+}
